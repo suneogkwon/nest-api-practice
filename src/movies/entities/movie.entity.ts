@@ -3,5 +3,4 @@ export class Movie {
   title: string;
   year: number;
   genres: string[];
-  test: string;
 }
